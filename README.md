@@ -9,7 +9,7 @@ To use, run it on a server that can reach the slack API:
 
 Either run the app directly
 ```
-python animalColour.python
+python animalColour.py
 ```
 
 Or build a docker image
